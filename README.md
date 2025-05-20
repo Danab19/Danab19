@@ -109,6 +109,9 @@ I'm Dana! A computer engineering graduate from the American University of Bahrai
 
   <!-- Cypress -->
   <img src="https://api.iconify.design/logos/cypress.svg" width="40" height="40" alt="Cypress" />
+
+  <!-- Canva -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva" />
  
 </p>
 
