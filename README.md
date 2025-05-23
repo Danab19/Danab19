@@ -2,6 +2,16 @@
 
 I'm Dana! A computer engineering graduate from the American University of Bahrain (AUBH) who is very fond of the robotics industry.
 
+# 🌐 Contact Info
+
+<a href="mailto:dana.rrsedge@gmail.com">
+    <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" width="40" height="40" alt="Gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/dana-barhoom-b965b8265/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+
 # 💻 Tech Stack
 
 <p align="left">
